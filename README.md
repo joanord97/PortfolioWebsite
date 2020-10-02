@@ -1,2 +1,2 @@
 # PortfolioWebsite
-a website with a resume and portfolio
+a website which contains a resume and portfolio
